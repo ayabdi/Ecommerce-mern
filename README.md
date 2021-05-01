@@ -34,14 +34,14 @@ Ecommerce app developed in MERN stack + Redux
  <img width="638" alt="" src="https://user-images.githubusercontent.com/46926470/116796588-46aee880-aae6-11eb-8bd1-50ef6b545070.png"> 
 
  
- 2.Sign In (Authentication with JWT) <br/>
+1. Sign In (Authentication with JWT) <br/>
   <img width="438" alt="" src="https://user-images.githubusercontent.com/46926470/116797009-c1c5ce00-aae9-11eb-9f08-bd7c0e39a1b5.png">,<br/><br/>
    
- 2. Product Search <br/>
+2. Product Search <br/>
   <img width="438" alt="" src="https://user-images.githubusercontent.com/46926470/116797037-fcc80180-aae9-11eb-9957-f2164b734a54.png">,<br/><br/>
- 3.Shoppping Cart Functionality <br/>
+3. Shoppping Cart Functionality <br/>
   <img width="638" alt="Webp net-resizeimage (1)" src="https://user-images.githubusercontent.com/46926470/116796826-37c93580-aae8-11eb-8584-73bffebf5140.png">,<br/><br/>
- 4. Reviews <br/>
+4. Reviews <br/>
  <img width="438" alt="" src="https://user-images.githubusercontent.com/46926470/116796881-b2925080-aae8-11eb-8dea-960a9441e074.png"><br/> <br/>
 
 
